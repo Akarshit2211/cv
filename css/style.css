@@ -1,0 +1,214 @@
+body {
+  color: #40514E;
+  padding-top: 50px;
+  text-align: center;
+  background-color: #f0f5f9;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  padding-top: 50px;
+  color: #52616b;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color: #52616b;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+}
+
+.profile-pic{
+  margin: 40px auto 20px auto;
+}
+
+.prog{
+  color: #52616b;
+  position: relative;
+  bottom: 20px;
+  font-size: 1.3rem;
+  font-weight: normal;
+}
+
+.p1{
+  padding-bottom: 50px;
+  margin: auto;
+}
+
+.topcontainer {
+  padding-top:100px;
+  background-color: #c9d6df;
+  position: relative;
+}
+
+.middle-container {
+  line-height: 2;
+}
+
+.bottom-container {
+  margin-top: 65px;
+  line-height: 2;
+  background-color: #52616b;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 70px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:270px;
+  bottom:470px;
+}
+
+.mountain-img{
+}
+
+.profile-pic{
+  padding-top: 30px;
+}
+
+.singing-ic{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.dd-ic{
+  float: left;
+  margin-right: 30px;
+  width: 25%;;
+}
+
+.footer-link{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0px 20px;
+  color: #e4e3e3;
+  line-height: 3;
+  font-size: 1.1rem;
+}
+
+.bird-img{
+  position: absolute;
+  left: 300px;
+}
+
+.btn{
+  color: #52616b;
+}
+
+.skill-row{
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.contact-me{
+  line-height: 2;
+}
+
+.love-music{
+  text-align: center;
+}
+
+.music{
+  position: relative;
+  top: 30px;
+  margin-bottom: 150px;
+}
+
+.dev{
+  position: relative;
+  top: 30px;
+  margin-bottom: 150px;
+}
+
+.singing{
+  position: relative;
+  top: 50px;
+  padding: 10px;
+}
+
+.des-dev{
+  position: relative;
+  top: 50px;
+  padding: 10px;
+}
+
+hr{
+  margin: 60px auto 70px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.my-description{
+  padding: 40px;
+  margin: auto;
+  width: 15%;
+}
+
+.copyright{
+  color: black;
+  font-size: 0.75rem;
+  padding-top: 30px;
+}
+
+.btn {
+  background: #84a9ac;
+  background-image: -webkit-linear-gradient(top, #84a9ac, #e4e3e3);
+  background-image: -moz-linear-gradient(top, #84a9ac, #e4e3e3);
+  background-image: -ms-linear-gradient(top, #84a9ac, #e4e3e3);
+  background-image: -o-linear-gradient(top, #84a9ac, #e4e3e3);
+  background-image: linear-gradient(to bottom, #84a9ac, #e4e3e3);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 1px 1px 3px #e4e3e3;
+  -webkit-box-shadow: 0px 1px 3px #ddf3f5;
+  -moz-box-shadow: 0px 1px 3px #ddf3f5;
+  box-shadow: 0px 1px 3px #ddf3f5;
+  font-family: Arial;
+  color: #204051;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #faf0af;
+  background-image: -webkit-linear-gradient(top, #faf0af, #faf0af);
+  background-image: -moz-linear-gradient(top, #faf0af, #faf0af);
+  background-image: -ms-linear-gradient(top, #faf0af, #faf0af);
+  background-image: -o-linear-gradient(top, #faf0af, #faf0af);
+  background-image: linear-gradient(to bottom, #faf0af, #faf0af);
+  text-decoration: none;
+}
+
+.love-music-2{
+  margin-bottom: 60px;
+}
+
+.footer-link:hover{
+  color: #faf0af;
+}
